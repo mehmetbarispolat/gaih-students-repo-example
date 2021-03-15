@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GAIH Student Repo
 ![](img/newlogo.png)
 
 **Course Date:** 08.03.2021  
@@ -8,7 +8,7 @@
 
 
 ## Project Name
-Description of your project.
+Introduction to Python Programming
 
 ## Requirements
 ```
