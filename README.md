@@ -12,12 +12,10 @@ Description of your project.
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
 ```
 ---
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+![sertifika](https://user-images.githubusercontent.com/51261730/111170778-5e252700-85b5-11eb-9838-757bfbc7fb25.png)
+
 
